@@ -56,4 +56,3 @@
     - Representación de predicado n-ario (n>2)
         - ![](https://remnote-user-data.s3.amazonaws.com/wr8iVhcnbG--UnlLAQ84qULV24XYNaDCp0Wm2yJ1f0pDIgOPq6AWexvTbOrEwFN6ov40FhlOoY67Q3KLbhRJegT7JvuNDjQglHBakYjSswszwYscGXDcUtAnYFtUJA3F.png) 
 
-![[RedesSemanticas.png]]
